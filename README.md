@@ -3,7 +3,10 @@
 
 ## HTML Bölüm Sonu Çalışması 2
 - Bölüm sonu hazırlanan videodaki web sayfası oluşturlmuştur.
-- Görsel;
+- Görseller;
+- ![HTMLBolumSonuCalismasiGorseli](images/HTMLBolumSonuCalismasiGorseli.png)
+- ![iletisimGorseli](images/iletisim-vscode.png)
+- ![anasayfa-hakkımızda-gorseli](images/anasayfa-hakkimizda.png)
 
 
 
