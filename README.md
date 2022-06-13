@@ -4,9 +4,9 @@
 ## HTML Bölüm Sonu Çalışması 2
 - Bölüm sonu hazırlanan videodaki web sayfası oluşturlmuştur.
 - Görseller;
-- ![HTMLBolumSonuCalismasiGorseli](images/HTMLBolumSonuCalismasiGorseli.png)
-- ![iletisimGorseli](images/iletisim-vscode.png)
-- ![anasayfa-hakkımızda-gorseli](images/anasayfa-hakkimizda.png)
+ ![HTMLBolumSonuCalismasiGorseli](images/HTMLBolumSonuCalismasiGorseli.png)
+ ![iletisimGorseli](images/iletisim-vscode.png)
+ ![anasayfa-hakkımızda-gorseli](images/anasayfa-hakkimizda.png)
 
 
 
